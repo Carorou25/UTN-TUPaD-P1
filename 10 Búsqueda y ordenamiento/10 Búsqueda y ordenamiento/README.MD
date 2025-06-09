@@ -6,6 +6,8 @@ Trabajo Práctico Integrador
 
 Tema: Algoritmos de búsqueda y ordenamiento. 
 
+LINK VIDEO:  https://youtu.be/yqkLPqc8e44 
+
 ## ✨ Estudiantes  
 - **Nombre:** Rousseaux, Alexia Carolina 
               Rosales, Gaston 
