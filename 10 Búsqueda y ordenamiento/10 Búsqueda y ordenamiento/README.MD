@@ -2,19 +2,15 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
-## ✨ Estudiante  
+Trabajo Práctico Integrador 
+
+Tema: Algoritmos de búsqueda y ordenamiento. 
+
+## ✨ Estudiantes  
 - **Nombre:** Rousseaux, Alexia Carolina 
+              Rosales, Gaston 
 - **Comisión:** M2025-21 * 
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+Este trabajo practico fue realizado por los alumnos: Rousseaux Carolina y Rosales Gastón de la comisión 21 de la carrare Tecnicatura Universitaria en programación a distancia. Se investigo el tema "Algoritmos de busqueda y ordenamiento"; los diferentes tipos de algoritmos, sus pros y contras, eficiencia para el uso, y la notación Big O. Nos valimos de herramietas como la plataforfa de SaaS "Google Documents" y la herramienta Gamma.ai para generar una breve presentación de ayuda en conjunto con el video.   
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
-
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
 
